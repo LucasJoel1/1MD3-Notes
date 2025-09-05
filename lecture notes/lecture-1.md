@@ -91,7 +91,7 @@ y = temp # y is assigned to the temp value since x is currently set to the value
 
 **Way 2**
 
-Python has some special syntax that allows us to sway variables in one line
+Python has some special syntax that allows us to switch variables in one line
 
 ```py
 x = 5
