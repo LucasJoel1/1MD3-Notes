@@ -1,4 +1,4 @@
-# Lecture 1 | Sept 5th 2025
+# Lecture 2 | Sept 5th 2025
 
 ## Python Math Continued
 
