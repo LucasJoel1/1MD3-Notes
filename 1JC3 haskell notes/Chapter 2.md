@@ -62,7 +62,7 @@ doubleNumber x = x + x
 
 let's go over this syntax
 
-`doubleNumber` is the name of the function
+`doubleNumber` is the name of the function.  In haskell the name of a function must be a lowercase letter
 
 `x` is the name of the parameter we are passing in, since there is only one parameter here our function only takes in one parameter
 
@@ -97,4 +97,5 @@ myFunc2 x y = x + y
 -- takes in Int y
 -- outputs x + y as an Int
 ```
-    
+
+**When creating functions in these notes we will use this notation in the future so make sure you know it.**
