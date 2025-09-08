@@ -18,7 +18,7 @@ A `Float` is a decimal number with single precision meaning it is bound to 32-bi
 
 ### Double
 
-A `Double` is the same as a `Float` but with double precision offering 15-16 decimals on each side
+A `Double` is the same as a `Float` but with double precision offering 15-16 decimals on each side and takes up 64 bits
 
 ### Bool
 
