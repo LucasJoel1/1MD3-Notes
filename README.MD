@@ -10,3 +10,4 @@ The chapters will be summarizing the book "Learn You a Haskell for Greate Good" 
 - [**Chapter 1 - Arithmatic**](1JC3%20haskell%20notes/Chapter%201.md)
 - [**Chapter 2 - Functions**](1JC3%20haskell%20notes/Chapter%202.md)
 - [**Chapter 3 - Conditionals**](1JC3%20haskell%20notes/Chapter%203.md)
+- [**Chapter 4 - Data Types, Variables, and Lists**](1JC3%20haskell%20notes/Chapter%204.md)
