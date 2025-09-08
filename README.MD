@@ -8,3 +8,4 @@
 The chapters will be summarizing the book "Learn You a Haskell for Greate Good" by Miran Lipovaca, and will assume you already have haskell installed.
 
 - [**Chapter 1 - Arithmatic**](1JC3%20haskell%20notes/Chapter%201.md)
+- [**Chapter 2 - Functions**](1JC3%20haskell%20notes/Chapter%202.md)
