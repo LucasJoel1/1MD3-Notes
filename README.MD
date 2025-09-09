@@ -2,6 +2,7 @@
 
 - [**Lecture 1 - Sept 3 2025**](1MD3%20lecture%20notes/lecture-1.md)
 - [**Lecture 2 - Sept 5 2025**](1MD3%20lecture%20notes/lecture-2.md)
+- [**Lecture 3 - Sept 9 2025**](1MD3%20lecture%20notes/lecture-3.md)
 
 # 1JC3 Notes
 
